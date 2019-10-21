@@ -3,7 +3,8 @@
 
 ## Introduction 
 
-In this codealong, we'll take a look at how to create an interactive map using the Folium package. From there, we'll return to APIs in the final lab for the day where you'll make an interactive map from your requests to the API!
+In this codealong, we'll take a look at how to create interactive maps using the Folium package.
+
 
 ## Objectives
 
@@ -68,4 +69,6 @@ Now, if you click on the map markers, you should see a little information box po
 
 ## Summary 
 
-In this codealong, we learned how to use Folium to create some cool interactive maps with only a few lines of python code! In the next lab, you'll synthesize your skills for the day together and create an interactive visualization map for data you retrieve from the Yelp API!
+In this codealong, we learned how to use Folium to create some cool interactive maps with only a few lines of Python code! 
+
+In the Appendix to this section, you can use your new interactive map-making skills to create an interactive visualization map for data you retrieve from the Yelp API!
