@@ -1,4 +1,3 @@
-
 # Folium - Codealong
 
 ## Introduction 
@@ -7,7 +6,8 @@ In this codealong, we'll take a look at how to create an interactive map using t
 
 ## Objectives
 
-You will be able to: 
+You will be able to:
+
 * Create maps using Folium
 
 ## Creating a Basemap
